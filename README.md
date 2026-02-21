@@ -1,2 +1,4 @@
-# fake-phd-for-medium
-storage for the fake phd refrred to and discuused in the medium article
+# fake-PhD-for-medium
+
+storage for the fake PhD referred to and discussed in the medium article
+
